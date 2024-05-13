@@ -1,0 +1,15 @@
+h1,
+ul {
+    font-family: "Courier New", Monaco, monospace;   
+}
+
+h1 {
+    background-color: green;
+    color: yellow;
+}
+
+ul {
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
